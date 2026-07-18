@@ -1,5 +1,7 @@
 {
   "event_name": "🧟 Zombie Mode",
   "description": "Kill zombies and survive!",
-  "reward": "500 Coins"
+  "reward": "500 Coins",
+  "start_date": "2026-07-01",
+  "end_date": "2026-07-30"
 }
