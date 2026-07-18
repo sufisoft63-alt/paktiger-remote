@@ -1,43 +1,36 @@
 {
-  "project_info": {
-    "project_number": "226078073924",
-    "project_id": "paktiger-e84ac",
-    "storage_bucket": "paktiger-e84ac.firebasestorage.app"
-  },
-  {
-  "events": [
-    { "id": "zombie_mode", "active": true },
-    { "id": "double_xp", "active": true, "multiplier": 2 }
-  ],
-  "gameplay": {
-    "weapon_damage": 1.5
-  },
   "ui": {
-    "banner": "https://firebasestorage.googleapis.com/....png",
-    "notice": "🔥 New Zombie Mode Live!"
-  }
-}
-  
-  "client": [
+    "notice": "🔥 New Zombie Mode Live!",
+    "banner": "https://raw.githubusercontent.com/yourname/repo/main/banner.png"
+  },
+
+  "gameplay": {
+    "damage_multiplier": 1.5
+  },
+
+  "weapons": [
     {
-      "client_info": {
-        "mobilesdk_app_id": "1:226078073924:android:b8e06c42a46cf9e06c0811",
-        "android_client_info": {
-          "package_name": "com.Paktiger.PaktigerMobile"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBvKH6xho1pe74J2HZFKAsOi92dWzrF8fY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
+      "name": "AK47",
+      "damage": 45,
+      "fireRate": 0.08
+    },
+    {
+      "name": "M4",
+      "damage": 35,
+      "fireRate": 0.09
     }
   ],
-  "configuration_version": "1"
+
+  "events": [
+    {
+      "id": "zombie_mode",
+      "active": true,
+      "config_url": "https://raw.githubusercontent.com/yourname/repo/main/zombie.json"
+    },
+    {
+      "id": "double_xp",
+      "active": true,
+      "config_url": "https://raw.githubusercontent.com/yourname/repo/main/doublexp.json"
+    }
+  ]
 }
