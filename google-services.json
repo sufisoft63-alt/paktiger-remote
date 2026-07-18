@@ -1,7 +1,7 @@
 {
   "ui": {
-    "notice": "🔥 Season 1! end",
-    "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/banner.png"
+    "notice": "🔥 Welcome to Season 1",
+    "banner": "https://raw.githubusercontent.com/ali123/game-config/main/banner.png"
   },
   "weapons": [
     {
@@ -14,7 +14,7 @@
     {
       "id": "zombie_mode",
       "active": true,
-      "config_url": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/banner.png"
+      "config_url": "https://raw.githubusercontent.com/ali123/game-config/main/zombie.json"
     }
   ]
 }
