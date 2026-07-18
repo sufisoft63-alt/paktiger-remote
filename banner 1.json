@@ -1,0 +1,14 @@
+{
+  "show": true,
+  "delay": 3,
+  "banners": [
+    {
+      "image": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner1.png",
+      "url": "https://youtube.com"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner2.png",
+      "url": "https://google.com"
+    }
+  ]
+}
