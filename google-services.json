@@ -1,13 +1,23 @@
 {
   "ui": {
     "notice": "🔥 Welcome to Season Test",
-    "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner.png"
+    "banner_config": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner.json"
   },
+{
+  "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner.png",
+  "show": true
+}
+  
   "weapons": [
     {
       "name": "AK47",
       "damage": 55,
       "fireRate": 0.09
+    },
+    {
+      "name": "M4A1",
+      "damage": 45,
+      "fireRate": 0.07
     }
   ],
   "events": [
