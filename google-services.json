@@ -1,15 +1,20 @@
 {
   "ui": {
-    "notice": "🔥 Welcome to Season Test",
-    "banner_config": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner_config.json"
+    "notice": "🔥 Season Pro Max",
+    "banner_config": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner_config.json",
+    "popup_config": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/popup.json"
   },
+
+  "features": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/features.json",
+
   "weapons": [
     {
       "name": "AK47",
-      "damage": 55,
-      "fireRate": 0.09
+      "damage": 60,
+      "fireRate": 0.08
     }
   ],
+
   "events": [
     {
       "id": "zombie_mode",
