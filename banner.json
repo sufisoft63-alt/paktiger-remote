@@ -1,9 +1,4 @@
 {
-  "banners": [
-    "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner1.png",
-    "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner2.png"
-  ],
-  "show": true,
-  "autoScroll": true,
-  "scrollDelay": 3
+  "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner.png",
+  "show": true
 }
