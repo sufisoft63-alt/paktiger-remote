@@ -1,20 +1,14 @@
 {
   "ui": {
     "notice": "🔥 New Zombie Mode Live!",
-    "banner": "https://raw.githubusercontent.com/yourname/repo/main/banner.png"
+    "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/banner.png"
   },
 
   "gameplay": {
     "damage_multiplier": 1.5
   },
   
-  {
-  "ui": {
-    "notice": "🔥 Welcome to PakTiger Season 1!",
-    "banner": "https://raw.githubusercontent.com/yourname/repo/main/banner.png"
-  }
-}
-
+ 
   "weapons": [
     {
       "name": "AK47",
