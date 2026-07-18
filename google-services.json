@@ -1,23 +1,13 @@
 {
   "ui": {
-    "notice": "🔥 New Zombie Mode Live!",
-    "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/banner.png"
+    "notice": "🔥 Welcome to PakTiger Season 1!",
+    "banner": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png"
   },
 
-  "gameplay": {
-    "damage_multiplier": 1.5
-  },
-  
- 
   "weapons": [
     {
       "name": "AK47",
-      "damage": 45,
-      "fireRate": 0.08
-    },
-    {
-      "name": "M4",
-      "damage": 35,
+      "damage": 55,
       "fireRate": 0.09
     }
   ],
@@ -26,12 +16,7 @@
     {
       "id": "zombie_mode",
       "active": true,
-      "config_url": "https://raw.githubusercontent.com/yourname/repo/main/zombie.json"
-    },
-    {
-      "id": "double_xp",
-      "active": true,
-      "config_url": "https://raw.githubusercontent.com/yourname/repo/main/doublexp.json"
+      "config_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/zombie.json"
     }
   ]
 }
