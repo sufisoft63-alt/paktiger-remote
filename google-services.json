@@ -16,13 +16,5 @@
       "active": true,
       "config_url": "https://raw.githubusercontent.com/ali123/game-config/main/zombie.json"
     }
-
-    {
-  "event_name": "🧟 Zombie Mode",
-  "description": "Kill zombies and survive!",
-  "reward": "500 Coins",
-  "start_date": "2026-07-01",
-  "end_date": "2026-07-30"
-}
   ]
 }
