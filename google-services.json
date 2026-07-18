@@ -7,6 +7,13 @@
   "gameplay": {
     "damage_multiplier": 1.5
   },
+  
+  {
+  "ui": {
+    "notice": "🔥 Welcome to PakTiger Season 1!",
+    "banner": "https://raw.githubusercontent.com/yourname/repo/main/banner.png"
+  }
+}
 
   "weapons": [
     {
