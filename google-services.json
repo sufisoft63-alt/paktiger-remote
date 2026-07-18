@@ -1,7 +1,7 @@
 {
   "ui": {
-    "notice": "🔥 Welcome to PakTigerMobile Season 1!",
-    "banner": "https://raw.githubusercontent.com/sufisoft/paktiger/main/banner.png"
+    "notice": "🔥 Welcome to PakTigerMobile Season Test!",
+    "banner": "https://raw.githubusercontent.com/ali123/game-config/main/banner.png"
   },
   "weapons": [
     {
@@ -14,7 +14,7 @@
     {
       "id": "zombie_mode",
       "active": true,
-      "config_url": "https://raw.githubusercontent.com/sufisoft/paktiger/main/zombie.json"
+      "config_url": "https://raw.githubusercontent.com/ali123/game-config/main/zombie.json"
     }
   ]
 }
