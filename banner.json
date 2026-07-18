@@ -1,9 +1,10 @@
 {
-  "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/banner.png",
-  "show": true
+  "banners": [
+    "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner1.png",
+    "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner2.png",
+    "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner3.png"
+  ],
+  "show": true,
+  "autoScroll": true,
+  "scrollDelay": 3
 }
-{
-  "banner": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/ChatGPT%20Image%20Jul%2017%2C%202026%2C%2002_15_41%20PM.png",
-  "show": true
-}
-
