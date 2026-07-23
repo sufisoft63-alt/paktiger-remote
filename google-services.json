@@ -20,7 +20,7 @@
     {
       "id": "zombie_mode",
       "active": true,
-      "config_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/zombie.json"
+      "config_url": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/zombie.json"
     }
   ]
 }
