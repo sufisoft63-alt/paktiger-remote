@@ -1,33 +1,22 @@
 {
   "ui": {
-    "notice": "🔥 Season 1 is Live!",
-    "banner_config": "https://yourlink/banner.json",
-    "popup_config": "https://yourlink/popup.json"
+    "notice": "🔥 Welcome to PakTiger Season 1!",
+    "banner": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png"
   },
-
-  "banners": [
-    {
-      "image": "https://yourlink/banner1.png",
-      "title": "New Mode",
-      "desc": "Zombie Mode is Live!"
-    },
-    {
-      "image": "https://yourlink/banner2.png",
-      "title": "New Gun",
-      "desc": "AK47 Buffed!"
-    },
-    {
-      "image": "https://yourlink/banner3.png",
-      "title": "Event",
-      "desc": "Win Free Rewards!"
-    }
-  ],
 
   "weapons": [
     {
       "name": "AK47",
-      "damage": 60,
-      "fireRate": 0.08
+      "damage": 55,
+      "fireRate": 0.09
+    }
+  ],
+
+  "events": [
+    {
+      "id": "zombie_mode",
+      "active": true,
+      "config_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/zombie.json"
     }
   ]
 }
