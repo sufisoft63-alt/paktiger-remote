@@ -3,7 +3,7 @@
   "delay": 3,
   "banners": [
     {
-      "image": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/banner.png",
+      "image": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/new.png",
       "url": "https://google.com"
     }
   ]
