@@ -1,14 +1,15 @@
+
 {
   "addons": [
     {
       "id": "example-addon",
       "displayName": "Example Add-on",
       "version": "1.0.0",
-      "description": "Write a short description of this add-on.",
+      "description": "Example add-on for SG Game Engine.",
       "category": "Tools",
-      "author": "Sufi Soft",
-      "imageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPOSITORY/main/images/example-addon.png",
-      "downloadUrl": "https://github.com/YOUR-USERNAME/YOUR-REPOSITORY/releases/download/v1.0.0/example-addon.zip"
+      "author": "SG Studio",
+      "imageUrl": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/refs/heads/main/POPUP.json",
+      "downloadUrl": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/addons/example-addon.zip"
     }
   ]
 }
