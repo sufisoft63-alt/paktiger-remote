@@ -1,0 +1,24 @@
+{
+  "tutorials": [
+    {
+      "id": "sg-getting-started",
+      "title": "SG Game Engine - Getting Started",
+      "description": "Introduce SG Game Engine and learn the basic workflow. Replace this sample with your own YouTube video.",
+      "category": "Getting Started",
+      "author": "SG Game Engine",
+      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_HERE",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_HERE/hqdefault.jpg",
+      "duration": "Beginner"
+    },
+    {
+      "id": "sg-addon-manager",
+      "title": "Add-on Manager - Install and Manage Add-ons",
+      "description": "Learn how to install ZIP add-ons, check dependencies, and export add-ons.",
+      "category": "Add-on Manager",
+      "author": "SG Game Engine",
+      "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_HERE",
+      "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_HERE/hqdefault.jpg",
+      "duration": "Beginner"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
       "version": "1.0.0",
       "description": "Example add-on for SG Game Engine.",
       "category": "Tools",
-      "author": "SG Studio",
-      "imageUrl": "https://github.com/sufisoft63-alt/paktiger-remote/blob/main/new.png",
+      "author": "Sufi Soft",
+      "imageUrl": "https://github.com/sufisoft63-alt/paktiger-remote/blob/main/banner.png",
       "downloadUrl": "https://raw.githubusercontent.com/sufisoft63-alt/paktiger-remote/main/addons/example-addon.zip"
     }
   ]
